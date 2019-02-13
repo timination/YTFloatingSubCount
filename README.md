@@ -1,7 +1,7 @@
 # YTFloatingSubCount
 Floating Subscription Count for YouTube Streamers
 
-# Usage
+# Setup And Usage
 
 You will require your channel ID from YouTube, this is the part that comes after `/channel/` in the URL, 
 it can either be a random string or a specified channel name. For example, the channel name for Shroud is:
@@ -12,6 +12,8 @@ You will require a YouTube Data API KEY as detailed here: https://developers.goo
 
 Why?
 YouTube **limit API requests to 10k requests per day, so I can't give you one. Easy to make, do not share.**
+
+See: https://youtu.be/q2IKu8rF2YI For setup (English).
 
 You will require YouTube Data API access for your given key, again detailed in the above URL.
 
