@@ -6,7 +6,9 @@ Floating Subscription Count for YouTube Streamers
 You will require your channel ID from YouTube, this is the part that comes after `/channel/` in the URL, 
 it can either be a random string or a specified channel name. For example, the channel name for Shroud is:
 
-https://www.youtube.com/channel/**UCoz3Kpu5lv-ALhR4h9bDvcw**
+https://www.youtube.com/channel/UCoz3Kpu5lv-ALhR4h9bDvcw
+
+**UCoz3Kpu5lv-ALhR4h9bDvcw**
 
 You will require a YouTube Data API KEY as detailed here: https://developers.google.com/youtube/v3/getting-started
 
