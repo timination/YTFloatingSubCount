@@ -39,3 +39,17 @@ If you stream for a solid 24 hours, your maximum refresh rate should be 8640 to 
 `jar cvfe YTFloatingSubCount.jar YTFloatingSubCount.YTFloatingSubCount YTFloatingSubCount/*.class`
 
 Feel free to modify, adapt, overcome or whatever, attribution preferred.
+
+# Screenshots
+Below shows YTFloatingSubCount in use.
+
+## Settings Pane
+![Settings](/screenshots/settings.png?raw=true "Settings")
+
+## Demo
+![screenshot 1](/screenshots/ss1.png?raw=true "screenshot1")
+
+![screenshot 2](/screenshots/ss2.png?raw=true "screenshot2")
+
+![screenshot 3](/screenshots/ss3.png?raw=true "screenshot3")
+
